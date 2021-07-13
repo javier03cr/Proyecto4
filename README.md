@@ -26,6 +26,7 @@ Por otra parte, se tiene las siguientes gráficas:
 Dado que la media del proceso se mantiene estable con el paso del tiempo, se puede asegurar que el proceso es estacionario y es una de las condiciones para que el proceso sea estacionario, por otra parte, se tiene que la ergocidad no se cumple, ya que el promedio de realizaciones debe ser similar al valor teórico y esta condición se cumple en este caso, por lo cual se puede decir que el proceso es estacionario, pero no ergódico.
 
 Parte 3. Densidad espectral de potencia
+
 Se tiene por otra parte, la densidad espectral de potencia, se tiene que el pico se encuentra a una frecuencia de 5000 Hz, es totalmente lo esperado, ya que fue a esta la frecuencia a la cual se eligieron los parámetros, en este caso la frecuencia portadora, con lo cual se cumple con lo esperado: 
 
 ![image](https://user-images.githubusercontent.com/85901651/125530399-e52b20ba-bffb-4453-bc1d-eb415fa14a35.png)
